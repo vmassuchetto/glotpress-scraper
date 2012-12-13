@@ -1,0 +1,11 @@
+# Vim
+*~
+*.swp
+*.swo
+*.swn
+
+# Python Files
+*.pyc
+
+# Default Download Location
+files
